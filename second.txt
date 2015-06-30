@@ -1,1 +1,2 @@
 Just a second example file.
+Now a change.
